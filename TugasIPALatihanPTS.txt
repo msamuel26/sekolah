@@ -154,7 +154,7 @@ a.	Saat melompat, kaki akan memberi gaya ke tanah dan tanah akan memberi gaya be
 
 33.	Arah gaya aksi dan reaksi pada Hukum III Newton adalah dari dua benda memiliki besar yang sama, dengan arah berkebalikan, dan segaris. 
 
-34.	Gambarkan hasil dari ticker timer pada peristiwa GLB! Di buku catatan IPS
+34.	Gambarkan hasil dari ticker timer pada peristiwa GLB! Di buku catatan IPA
 35.	Gambarkan hasil dari ticker timer pada peristiwa GLBB dipercepat! Di buku catatan IPA
 36.	Gambarkan hasil dari ticker timer pada peristiwa GLB diperlambat! Di buku catatan IPA
 37.	Gambarkan grafik hubungan antara kecepatan terhadap waktu pada GLB! Di buku catatan IPA
@@ -162,6 +162,3 @@ a.	Saat melompat, kaki akan memberi gaya ke tanah dan tanah akan memberi gaya be
 39.	Gambarkan grafik hubungan antara kecepatan terhadap waktu pada GLBB dipercepat! Di buku catatan IPA
 40.	Pesepeda bergerak dari titik A ke titik B sejauh 30 meter lalu dilanjutkan dari titik B ke titik C sejauh 50 meter, waktu tempuh yang dialami pesepeda dari titik A ke titik C adalah 20 detik, Hitunglah besar kelajuan rata-rata dan kecepatan rata-rata pesepeda! Di buku catatan IPA
 
-Halo ini catatan tambahan dari bapak
-
-testing lagi
